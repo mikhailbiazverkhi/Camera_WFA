@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Camera_WFA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+25eb58ef734555511116e04546fe27c1f6372ed5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Camera_WFA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Camera_WFA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

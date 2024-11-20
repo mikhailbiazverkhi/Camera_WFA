@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "24wMRezVAik=",
+  "dgSpecHash": "lprB6LxgYtI=",
   "success": true,
-  "projectFilePath": "C:\\GitHub_repos\\Camera\\Camera_WFA\\Camera_WFA.csproj",
+  "projectFilePath": "C:\\GitHub_repos\\Camera_WFA\\Camera_WFA\\Camera_WFA.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mikhail\\.nuget\\packages\\emgu.cv\\4.9.0.5494\\emgu.cv.4.9.0.5494.nupkg.sha512",
     "C:\\Users\\Mikhail\\.nuget\\packages\\emgu.cv.bitmap\\4.9.0.5494\\emgu.cv.bitmap.4.9.0.5494.nupkg.sha512",

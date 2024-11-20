@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\GitHub_repos\\Camera\\Camera_WFA\\Camera_WFA.csproj": {}
+    "C:\\GitHub_repos\\Camera_WFA\\Camera_WFA\\Camera_WFA.csproj": {}
   },
   "projects": {
-    "C:\\GitHub_repos\\Camera\\Camera_WFA\\Camera_WFA.csproj": {
+    "C:\\GitHub_repos\\Camera_WFA\\Camera_WFA\\Camera_WFA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\GitHub_repos\\Camera\\Camera_WFA\\Camera_WFA.csproj",
+        "projectUniqueName": "C:\\GitHub_repos\\Camera_WFA\\Camera_WFA\\Camera_WFA.csproj",
         "projectName": "Camera_WFA",
-        "projectPath": "C:\\GitHub_repos\\Camera\\Camera_WFA\\Camera_WFA.csproj",
+        "projectPath": "C:\\GitHub_repos\\Camera_WFA\\Camera_WFA\\Camera_WFA.csproj",
         "packagesPath": "C:\\Users\\Mikhail\\.nuget\\packages\\",
-        "outputPath": "C:\\GitHub_repos\\Camera\\Camera_WFA\\obj\\",
+        "outputPath": "C:\\GitHub_repos\\Camera_WFA\\Camera_WFA\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
